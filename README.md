@@ -1,88 +1,124 @@
 <div align="center">
-  # Emy
 
-  ### Kernel Engineer · Offensive Security Researcher · Polymath
+# Emy
 
-  <p><i>Low-level systems · Exploit development · Cognitive architectures</i></p>
+**Kernel Engineer · Offensive Security Researcher**
 
-  <a href="#contact"><img src="https://img.shields.io/badge/PGP-Verified-success?style=for-the-badge&logo=protonmail" alt="PGP"></a>
-  <a href="https://discord.com/users/1076409490682945566"><img src="https://img.shields.io/badge/Discord-ciuqe-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+Low-level systems · Exploit development · Cognitive architectures
+
+[![PGP](https://img.shields.io/badge/PGP-Verified-success?style=for-the-badge&logo=protonmail)](https://privx.li/1syUJ6TjG)
+[![Discord](https://img.shields.io/badge/Discord-ciuqe-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1076409490682945566)
+
 </div>
 
 ---
 
-### :shield: Focus & Disclaimer
-Intersection of kernel development, offensive security, and behavioral modeling.  
-**Strictly white-hat**: ethical research, red team simulations, defensive hardening. No unauthorized access or black-hat activity.
+## About
+
+I work at the intersection of kernel development and offensive security, with a focus on low-level exploitation and defense evasion. My research spans everything from Ring-0 internals to automotive protocol analysis.
+
+**Ethics matter.** Everything I do is strictly white-hat—authorized research, red team engagements, and defensive work. No unauthorized access, no exceptions.
 
 ---
 
-### :microscope: Core Competencies
-- Ring-0 development & kernel internals  
-- Exploit research (user/kernel mode)  
-- Evasion & breaching defenses  
-- Direct Memory Access (DMA) attacks  
-- CAN bus & automotive protocol reversing  
-- Symbolic reasoning in large models  
+## What I Do
 
-**Languages & Tools**
+Most of my time is spent on:
+
+- Kernel-mode exploit development (Windows/Linux)
+- EDR and AV evasion research
+- DMA attack vectors and physical memory manipulation
+- Reverse engineering closed-source binaries and firmware
+- CAN bus security and automotive protocol analysis
+- Building tooling for red team operations
+- Anti-cheat system analysis from a defensive perspective
+- Database security analysis and authentication mechanism testing
+- AI chatbot security and LLM prompt engineering research
+
+I also dabble in symbolic reasoning systems and behavioral modeling, which has led to some interesting crossover work with large language models.
+
+---
+
+## Stack
+
+**Low-level stuff:** Assembly (x86_64), C, C++23, Rust, Zig  
+**Higher-level:** Python, JavaScript/TypeScript, Go, C#, Lua, Nim  
+**Tools:** IDA Pro, Ghidra, WinDbg, GDB, Frida, Binary Ninja
+
+I spend most of my time in a debugger or staring at assembly. If it runs in kernel space or talks to hardware, I'm probably interested.
+
+---
+
+## Certifications
+
+I've picked up a few certs over the years:
+
+**Offensive Security**  
+OSCP · OSWE · OSEP · OSCE³ · OSEE · GXPN
+
+**Red Teaming**  
+CRTOP (ZeroPoint Security) · MRT (MCSI)
+
+**Other**  
+PMP · BCBA-D
+
+The hands-on experience matters more than the acronyms, but these help establish credibility.
+
+---
+
+## Background
+
+I've founded and worked on several security-focused projects over the years:
+
+**Security Infrastructure:** Spheer, Vik, Didatabase, FX, Rouwentery  
+**Application Security Research:** EmpireClient, LipClient, Hox, RuneServerSide  
+**AI Security Research:** Theroh, LipAI, Berry, ipav
+
+Most of this work focuses on understanding vulnerabilities in systems and applications before they can be exploited maliciously—from game protection mechanisms to database authentication systems.
+
+---
+
+## Current Research
+
+Most of my work is private due to sensitivity or NDA restrictions. A few things I can talk about:
+
+**Tychon AI** — Custom 754B-parameter model focused on symbolic reasoning. Built some inference optimizations that made it actually usable.
+
+**Kernel DMA research** — Tools for direct physical memory access from Ring-0. Useful for understanding modern memory protections and their limitations.
+
+**Automotive security tooling** — CAN bus vulnerability scanner and exploitation framework. Turns out cars have terrible security models.
+
+**Anti-cheat system analysis** — Research into game protection mechanisms from a defensive perspective. Understanding how they work helps build better defenses.
+
+**Database security analysis** — Identifying vulnerabilities in database systems and authentication mechanisms through authorized penetration testing.
+
+**EDR evasion research** — Ongoing work on understanding endpoint detection limitations. Published some findings, keeping others private for responsible disclosure.
+
+If you're working on something interesting and want to collaborate, let's talk. Full portfolio available under NDA.
+
+---
+
+## Get in Touch - Be patient when reaching out—I actually go outside and I'm not active 24/7.
+
+**Email:** wireless0@proton.me (use PGP for sensitive topics) (fastest response)
+**Discord:** ciuqe (Not really using discord, but it is still a way to reach out to me)
+**Discord Alt:** 0m2 (Not really using discord, but it is still a way to reach out to me)
+**Telegram:** @kittywp  
+**Threema:** 5AVDS52W
+**Signal:** v44.04  
+**Fluxer:** 44#4813  
+**Stoat:** 44#0089
+
+**PGP Public Key:** https://privx.li/1syUJ6TjG
+
+Use PGP if you're sharing anything sensitive. If you don't know what that means, Discord or email works fine.
+
+I'm open to collaboration on security research, vulnerability disclosure, or just talking shop about low-level systems.
+
+---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Assembly-red?style=flat-square&logo=intel" />
-  <img src="https://img.shields.io/badge/C-Embedded-A8B9CC?style=flat-square&logo=c" />
-  <img src="https://img.shields.io/badge/C++-23-00599C?style=flat-square&logo=c%2B%2B" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust" />
-  <img src="https://img.shields.io/badge/Zig-Systems-F7A41D?style=flat-square&logo=zig&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/JavaScript-ES2025-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lua-JIT-2C2D72?style=flat-square&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-.NET%208-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nim-3775A9?style=flat-square&logo=nim&logoColor=white" />
-  <img src="https://img.shields.io/badge/Reverse%20Engineering-010101?style=flat-square" />
-  <img src="https://img.shields.io/badge/Kernel%20Internals-Ring%200-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/x86__64%20ASM-Deep%20RE-red?style=flat-square" />
-</div>
 
----
+![](https://u8views.com/api/v1/github/profiles/176505381/views/day-week-month-total-count.svg)
 
-### :trophy: Verified Credentials
-- **Offensive Security**: OSCP, OSWE, OSEP, OSCE³ / OSEE, GXPN  
-- **Red Team**: CRTOP (ZeroPoint), MRT (MCSI)  
-- **Other**: PMP, BCBA-D  
-
----
-
-### :rocket: Select Projects / Research
-(Private repos dominate due to sensitivity; public ones below)
-
-- **Tychon AI** - Custom 754B-scale symbolic reasoning model (inference optimizations)  
-- **Kernel DMA tooling** - Ring-0 physical memory manipulation research  
-- **Automotive security** - CAN-bus vulnerability analysis & tooling  
-
-Full portfolio shared selectively under NDA/research agreements.
-
----
-
-### :satellite: Contact Information
-
-<div align="center">
-  • <strong>Discord</strong> - ciuqe <small>(general inquiries)</small><br>
-  • <strong>Telegram</strong> - @kittywp <small>(slow response)</small><br>
-  • <strong>Threema</strong> - 5AVDS52W <small>(high security)</small><br>
-  • <strong>Jami</strong> - 0m2 <small>(peer-to-peer)</small><br>
-  • <strong>Signal<strong> - v44.04<small><br>
-  • <strong>Fluxer<strong> - 44#4813<small><br>
-  • <strong>Stoat<strong> - 44#0089<small>
-</div>
-
-<div align="center">
-  <small>Use PGP for anything sensitive. Handle via encrypted channels only.</small>
-</div>
-
----
-
-<div align="center">
-  <img src="https://u8views.com/api/v1/github/profiles/176505381/views/day-week-month-total-count.svg" alt="Profile views" style="border-radius:8px;"/>
 </div>
