@@ -33,7 +33,6 @@ Most of my time is spent on:
 - Building tooling for red team operations
 - Anti-cheat system analysis from a defensive perspective
 - Database security analysis and authentication mechanism testing
-- AI chatbot security and LLM prompt engineering research
 
 I also dabble in symbolic reasoning systems and behavioral modeling, which has led to some interesting crossover work with large language models.
 
@@ -72,7 +71,6 @@ I've founded and worked on several security-focused projects over the years:
 
 **Security Infrastructure:** Spheer, Vik, Didatabase, FX, Rouwentery  
 **Application Security Research:** EmpireClient, LipClient, Hox, RuneServerSide  
-**AI Security Research:** Theroh, LipAI, Berry, ipav
 
 Most of this work focuses on understanding vulnerabilities in systems and applications before they can be exploited maliciously—from game protection mechanisms to database authentication systems.
 
@@ -81,8 +79,6 @@ Most of this work focuses on understanding vulnerabilities in systems and applic
 ## Current Research
 
 Most of my work is private due to sensitivity or NDA restrictions. A few things I can talk about:
-
-**Tychon AI** — Custom 754B-parameter model focused on symbolic reasoning. Built some inference optimizations that made it actually usable.
 
 **Kernel DMA research** — Tools for direct physical memory access from Ring-0. Useful for understanding modern memory protections and their limitations.
 
@@ -112,8 +108,6 @@ If you're working on something interesting and want to collaborate, let's talk. 
 **PGP Public Key:** https://privx.li/1syUJ6TjG
 
 Use PGP if you're sharing anything sensitive. If you don't know what that means, Discord or email works fine.
-
-I'm open to collaboration on security research, vulnerability disclosure, or just talking shop about low-level systems.
 
 ---
 
