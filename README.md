@@ -106,7 +106,7 @@ If you're working on something interesting and want to collaborate, let's talk. 
 **Telegram:** @kittywp  
 **Threema:** 5AVDS52W
 **Signal:** v44.04  
-**Fluxer:** 44#4813  
+**Fluxer:** emy#0456
 **Stoat:** 44#0089
 
 **PGP Public Key:** https://privx.li/1syUJ6TjG
