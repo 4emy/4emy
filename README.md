@@ -100,13 +100,13 @@ If you're working on something interesting and want to collaborate, let's talk. 
 
 ## Get in Touch - Be patient when reaching out—I actually go outside and I'm not active 24/7.
 
-**Email:** wireless0@proton.me (use PGP for sensitive topics) (fastest response)
-**Discord:** ciuqe (Not really using discord, but it is still a way to reach out to me)
-**Discord Alt:** 0m2 (Not really using discord, but it is still a way to reach out to me)
-**Telegram:** @kittywp  
-**Threema:** 5AVDS52W
-**Signal:** v44.04  
-**Fluxer:** emy#0972
+**Email:** wireless0@proton.me (use PGP for sensitive topics) (fastest response)<br>
+**Discord:** ciuqe (Not really using discord, but it is still a way to reach out to me)<br>
+**Discord Alt:** 0m2 (Not really using discord, but it is still a way to reach out to me)<br>
+**Telegram:** @kittywp<br>
+**Threema:** 5AVDS52W<br>
+**Signal:** v44.04  <br>
+**Fluxer:** emy#0972<br>
 **Stoat:** 44#0089
 
 **PGP Public Key:** https://privx.li/1syUJ6TjG
