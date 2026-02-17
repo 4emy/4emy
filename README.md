@@ -1,16 +1,5 @@
 <div align="center">
 
-## Certifications
-
-**Offensive Security**  
-OSCP · OSWE · OSEP · OSCE³ · OSEE · GXPN
-
-**Red Teaming**  
-CRTOP (ZeroPoint Security) · MRT (MCSI)
-
-**Other**  
-PMP · BCBA-D
-
 **Email:** wireless0@proton.me
 
 <div align="center">
