@@ -1,8 +1,3 @@
-<div align="center">
-
-[![PGP](https://img.shields.io/badge/PGP-Verified-success?style=for-the-badge&logo=protonmail)](https://privx.li/1syUJ6TjG)
-[![Discord](https://img.shields.io/badge/Discord-ciuqe-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1076409490682945566)
-
 ## Certifications
 
 **Offensive Security**  
