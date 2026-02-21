@@ -4,8 +4,7 @@
 
 I want to be 100% clear and transparent with everyone.
 
-Yes, I used AI once or twice. Not for profit, not for any real long-term thing. Just one time to speed something up.
-A friend (Yutosh) but note that we're no longer friends. Anways, they started Fluxboard and asked me to help push it faster. He straight up told me to use AI tools to get it done quicker. So I did. ChatGPT plus that Kiro IDE crap that they told me to use (they were running some Antigravity thing with a Google One sub also to code stuff they vibecoded). That was literally it. But fuck that. Never again.
+Yes, I used AI once or twice. Not for profit, not for any real long-term thing. Just one time to speed something up. A friend (Zutyosh) but note that we're no longer friends. Anways, they started Fluxboard and asked me to help push it faster. He straight up told me to use AI tools to get it done quicker. So I did. ChatGPT plus that Kiro IDE crap that they told me to use (they were running some Antigravity thing with a Google One sub also to code stuff they vibecoded). That was literally it. But fuck that. Never again.
 
 I’m completely done with AI. I already deleted every trace from my PC: ChatGPT, Kiro IDE, everything. I’m not touching it for code, ideas, questions, nothing. It fucked my rep, messed with how I actually think and build, and I learned the hard way.
 
