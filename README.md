@@ -1,6 +1,6 @@
 <div align="center">
 
-**Email:** wireless0@proton.me
+**Reach out to me:** wireless0@proton.me
 
 <div align="center">
 
