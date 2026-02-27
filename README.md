@@ -1,10 +1,5 @@
 <div align="center">
 
-# Authored, Not Borrowed
-
-I only keep what I can build.  
-Everything else is dependency.
-
 <br>
 
 <img src="https://u8views.com/api/v1/github/profiles/176505381/views/day-week-month-total-count.svg" alt="profile views" />
